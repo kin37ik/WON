@@ -1,3 +1,7 @@
+## "Update" 8/20/22 ##
+I'm not the original project guy. Just "archiving" this.
+Check out https://won2.net/
+
 ## About ##
 <p>This project is here to help document old <a href='wonapi.md'>wonapi</a> functions, but also to aid in developing a new WON server architecture. This opens up the possibility to rebuild the old WON Libraries to bypass or create a new authentication system with the help of the released source code. The main scope of this project is to make aware the source code and information about the WON server systems, that lots of old games used, and developers that want to make the games network playable again.<br>
 </p>
